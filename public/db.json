@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Построить дом",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero pariatur perferendis eligendi ad expedita, doloremque qui cupiditate in consequuntur laudantium impedit, delectus mollitia, facilis inventore voluptate itaque iure totam fugiat! Dolore animi aut necessitatibus vitae tempora dolorem recusandae laudantium qui sapiente laboriosam, amet, aspernatur ipsum voluptatum, dicta explicabo quam in?",
+      "tags": [
+        "code",
+        "html",
+        "css"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Построить приложение",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero pariatur perferendis eligendi ad expedita, doloremque qui cupiditate in consequuntur laudantium impedit, delectus mollitia, facilis inventore voluptate itaque iure totam fugiat! Dolore animi aut necessitatibus vitae tempora dolorem recusandae laudantium qui sapiente laboriosam, amet, aspernatur ipsum voluptatum, dicta explicabo quam in?",
+      "tags": [
+        "js",
+        "react",
+        "vue"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Убраться дома дом",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero pariatur perferendis eligendi ad expedita, doloremque qui cupiditate in consequuntur laudantium impedit, delectus mollitia, facilis inventore voluptate itaque iure totam fugiat! Dolore animi aut necessitatibus vitae tempora dolorem recusandae laudantium qui sapiente laboriosam, amet, aspernatur ipsum voluptatum, dicta explicabo quam in?",
+      "tags": [
+        "code",
+        "html",
+        "css"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Построить приложение",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero pariatur perferendis eligendi ad expedita, doloremque qui cupiditate in consequuntur laudantium impedit, delectus mollitia, facilis inventore voluptate itaque iure totam fugiat! Dolore animi aut necessitatibus vitae tempora dolorem recusandae laudantium qui sapiente laboriosam, amet, aspernatur ipsum voluptatum, dicta explicabo quam in?",
+      "tags": [
+        "js",
+        "react",
+        "vue"
+      ]
+    },
+    {
+      "title": "Сделать домашнюю работу",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero pariatur perferendis eligendi ad expedita, doloremque qui cupiditate in consequuntur laudantium impedit, delectus mollitia, facilis inventore voluptate itaque iure totam fugiat! Dolore animi aut necessitatibus vitae tempora dolorem recusandae laudantium qui sapiente laboriosam, amet, aspernatur ipsum voluptatum, dicta explicabo quam in?",
+      "tags": [
+        "my",
+        "black",
+        "day"
+      ],
+      "id": 6
+    },
+    {
+      "title": "",
+      "body": "",
+      "tags": [],
+      "id": 7
+    },
+    {
+      "title": "Прочитать книгу",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero pariatur perferendis eligendi ad expedita, doloremque qui cupiditate in consequuntur laudantium impedit, delectus mollitia, facilis inventore voluptate itaque iure totam fugiat! Dolore animi aut necessitatibus vitae tempora dolorem recusandae laudantium qui sapiente laboriosam, amet, aspernatur ipsum voluptatum, dicta explicabo quam in?",
+      "tags": [
+        "мну",
+        "react"
+      ],
+      "id": 8
+    }
+  ]
+}
